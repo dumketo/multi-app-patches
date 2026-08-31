@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "patches": [
+    {
+      "name": "Unlock Premium",
+      "description": "Unlocks lifetime Premium in Wallverse.",
+      "version": "1.0.0",
+      "excluded": false,
+      "deprecated": false,
+      "options": [],
+      "compatiblePackages": [
+        {
+          "name": "Wallverse",
+          "versions": ["4.2"],
+          "packageName": "com.wallverse.wallpapers"
+        }
+      ]
+    },
+    {
+      "name": "Custom Branding",
+      "description": "Customize the app name and icon for Wallverse.",
+      "version": "1.0.0",
+      "excluded": false,
+      "deprecated": false,
+      "options": [
+        {
+          "key": "customAppName",
+          "title": "Custom app name",
+          "description": "Set a custom name for the app",
+          "required": false,
+          "choices": [],
+          "default": "Wallverse Pro"
+        },
+        {
+          "key": "customIcon",
+          "title": "Custom icon",
+          "description": "Enable custom app icon",
+          "required": false,
+          "choices": [],
+          "default": false
+        }
+      ],
+      "compatiblePackages": [
+        {
+          "name": "Wallverse",
+          "versions": ["4.2"],
+          "packageName": "com.wallverse.wallpapers"
+        }
+      ]
+    }
+  ],
+  "options": {
+    "patchesLabel": "Wallverse Patches"
+  }
+}
