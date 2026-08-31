@@ -5,10 +5,10 @@
 # 🧩 Multi-App Patches Collection
 <p align="center">
 
-![GitHub Release](https://img.shields.io/github/v/release/yourusername/multi-app-patches?style=for-the-badge)
-![License](https://img.shields.io/github/license/yourusername/multi-app-patches?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/multi-app-patches?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/multi-app-patches?style=for-the-badge)
+![GitHub Release](https://img.shields.io/github/v/release/dumketo/multi-app-patches?style=for-the-badge)
+![License](https://img.shields.io/github/license/dumketo/multi-app-patches?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/dumketo/multi-app-patches?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/dumketo/multi-app-patches?style=for-the-badge)
 
 </p>
 
@@ -34,14 +34,14 @@ This repository provides patches for **various popular Android applications**. E
 1. **Using Morphe Manager:**
    - Open Morphe Manager
    - Go to Settings → Patch sources
-   - Add this repository URL: `https://github.com/yourusername/multi-app-patches`
+   - Add this repository URL: `https://github.com/dumketo/multi-app-patches`
 
 2. **Direct link:**
-   Click here to add directly: `https://morphe.software/add-source?github=yourusername/multi-app-patches`
+   Click here to add directly: `https://morphe.software/add-source?github=dumketo/multi-app-patches`
 
 ## 🩹 Patches List
 
-> **[v1.0.0](https://github.com/yourusername/multi-app-patches/releases/tag/v1.0.0)** • `main` • **8 patches** across **4 apps**
+> **[v1.0.0](https://github.com/dumketo/multi-app-patches/releases/tag/v1.0.0)** • `main` • **8 patches** across **4 apps**
 
 ### 📦 Productivity & Utility Apps
 
