@@ -37,7 +37,7 @@ This repository provides patches for **various popular Android applications**. E
    - Add this repository URL: `https://github.com/dumketo/multi-app-patches`
 
 2. **Direct link:**
-   Click here to add directly: `https://morphe.software/add-source?github=dumketo/multi-app-patches`
+   Click here to add directly: `https://morphe.software/add-source?github=dumketo/multi-app-patches&name=Multi-App%20Patches`
 
 ## 🩹 Patches List
 
